@@ -117,10 +117,10 @@ export default function Landing() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <h2 className="text-4xl font-bold text-gray-900">
-                Why Choose BuildPro?
+                Why Choose Bamdam?
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed">
-                With over 15 years of experience in construction management, we've built a reputation 
+                With over 5 years of experience in construction management, we've built a reputation 
                 for excellence, innovation, and uncompromising quality. Our comprehensive approach 
                 ensures your project is completed on time, within budget, and to your exact specifications.
               </p>
@@ -176,7 +176,7 @@ export default function Landing() {
           <h2 className="text-4xl font-bold mb-6">Ready to Start Your Project?</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
             Join hundreds of satisfied clients who have trusted us with their construction needs. 
-            Get started today and experience the BuildPro difference.
+            Get started today and experience the Bamdam difference.
           </p>
           <Link
             to="/register"
@@ -263,7 +263,7 @@ export default function Landing() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-gray-900">Phone</h4>
-                      <p className="text-gray-600">+1 (555) 123-4567</p>
+                      <p className="text-gray-600">+1 (703) 313-9551</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4">
@@ -272,7 +272,7 @@ export default function Landing() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-gray-900">Email</h4>
-                      <p className="text-gray-600">info@buildpro.com</p>
+                      <p className="text-gray-600">info@Bamdam.com.ng</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4">
@@ -281,7 +281,7 @@ export default function Landing() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-gray-900">Address</h4>
-                      <p className="text-gray-600">123 Construction Ave<br />Builder City, BC 12345</p>
+                      <p className="text-gray-600">123 Bamdam Ave<br />Mile-6 Abeokuta, Ogun 110118</p>
                     </div>
                   </div>
                 </div>

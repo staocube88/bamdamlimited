@@ -1,1 +1,4 @@
 Starter project for Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
+to build run: npm install --save-dev vite
+              npx vite build
